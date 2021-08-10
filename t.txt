@@ -1,0 +1,4 @@
+# Nmap 7.92 scan initiated Tue Aug 10 19:16:48 2021 as: nmap -T4 -F -oG t.txt 8.8.8.8
+Host: 8.8.8.8 (dns.google)	Status: Up
+Host: 8.8.8.8 (dns.google)	Ports: 53/open/tcp//domain///, 443/open/tcp//https///	Ignored State: filtered (98)
+# Nmap done at Tue Aug 10 19:17:00 2021 -- 1 IP address (1 host up) scanned in 11.38 seconds
